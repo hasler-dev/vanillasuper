@@ -1,0 +1,12 @@
+{
+  "name": "vanillasuper",
+  "private": true,
+  "scripts": {
+    "build": "echo 'no build needed, static site'",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
