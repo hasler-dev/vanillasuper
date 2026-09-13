@@ -1,0 +1,4 @@
+node_modules/
+dist/
+checks/screenshots/
+checks/accessibility.json
